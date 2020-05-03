@@ -1,1 +1,2 @@
 Hi         
+Edited line 2 with gedit
